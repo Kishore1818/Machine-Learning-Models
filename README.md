@@ -10,7 +10,7 @@ This is mainly concentrate on Time Series analysis using tabular datasets.
       
     Stationary calculation, Auto Correlation Function (ACF), and Partical Correlation Function (PACF)
     
- 2. Models i Used for the Time Series Analysis
+ 2. Models I Used for the Time Series Analysis
  
     ARIMA,
     SARIMAX
